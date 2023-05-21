@@ -1,2 +1,2 @@
-# hangman_for_pc
+# Hangman The-Game for pc
 Hangman(game) for pc.
